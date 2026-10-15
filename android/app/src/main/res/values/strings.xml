@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Emploi du temps</string>
+    <string name="title_activity_main">Emploi du temps</string>
+    <string name="package_name">com.emploidutemps.app</string>
+    <string name="custom_url_scheme">com.emploidutemps.app</string>
+</resources>
